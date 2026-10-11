@@ -1,0 +1,6 @@
+{
+  "name": "Yapay Zekâ Destekli Okul Bahçesi Bitki Sağlığı İzleme Sistemi",
+  "description": "TÜBİTAK 4006-B Bilim Fuarı için geliştirilen, ortaokul öğrencilerinin okul bahçesindeki bitkileri yapay zekâ ile analiz etmesini, bilimsel gözlem günlüğü tutmasını ve zaman içindeki değişimleri takip etmesini sağlayan eğitim sistemi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
